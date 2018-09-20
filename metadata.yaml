@@ -29,6 +29,9 @@ contributor:
     wikipedia:
     - http://fi.wikipedia.org/wiki/Eino_Leino
     - http://en.wikipedia.org/wiki/Eino_Leino
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tagore, Rabindranath
@@ -38,6 +41,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52994#Uhrilauluja
 gutenberg_issued: '2016-09-06'
 gutenberg_type: Text
 identifiers:
