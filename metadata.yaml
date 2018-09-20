@@ -1,0 +1,57 @@
+_repo: Uhrilauluja_52994
+_version: 0.0.1
+alternative_title: Gitanjali. Finnish
+contributor:
+  author_of_introduction:
+    agent_name: Yeats, W. B. (William Butler)
+    alias: Yeats, William Butler
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '1719'
+    url: http://www.gutenberg.org/2009/agents/1719
+    wikipedia: http://en.wikipedia.org/wiki/William_Butler_Yeats
+  translators:
+  - agent_name: Iisalo, Osmo
+    gutenberg_agent_id: '47136'
+    url: http://www.gutenberg.org/2009/agents/47136
+  - agent_name: Leino, Eino
+    aliases:
+    - Lonnbohm, Armas Eino Leopold
+    - Leino, Armas Eino Leopold
+    - Lönnbohm, Armas Eino Leopold
+    - Vilkastus, Mikko
+    - Lönnbohm, Armas Einar Leopold
+    - Sepeteus, Kanttori
+    birthdate: 1878
+    deathdate: 1926
+    gutenberg_agent_id: '3927'
+    url: http://www.gutenberg.org/2009/agents/3927
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Eino_Leino
+    - http://en.wikipedia.org/wiki/Eino_Leino
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_issued: '2016-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52994'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indic poetry -- Translations into Finnish'
+- !lcsh 'Tagore, Rabindranath, 1861-1941 -- Translations into Finnish'
+- !lcsh 'Bengali poetry -- Translations into Finnish'
+- !lcsh 'Prose poems, Bengali -- Translations into Finnish'
+- !lcc 'PK'
+- GITenberg
+title: Uhrilauluja
+url: http://www.gutenberg.org/ebooks/52994
